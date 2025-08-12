@@ -100,5 +100,3 @@ In this project, MLflow was used to:
 - Save the best-performing model for later deployment.
 
 ---
-
-## 📂 Folder Structure
